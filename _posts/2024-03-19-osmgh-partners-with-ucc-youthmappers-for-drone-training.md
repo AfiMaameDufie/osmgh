@@ -4,7 +4,7 @@ title: Empowering the Next Generation; OSMGhana Partners with UCC YouthMappers f
 author: mawutor
 tags: [partnerships, UCC, Drones, OSM Ghana]
 image: '/images/posts/osm-ghana-ucc.jpeg'
-summary: OSMGhana Partners with UCC YouthMappers for Drone Technology Training: enlightening two-day training session on drone technology. 
+summary: OSMGhana Partners with UCC YouthMappers for Drone Technology Training - An enlightening two-day training session on drone technology. 
 ---
 
 
@@ -28,11 +28,13 @@ Emphasis was placed on safety protocols, ensuring that students understood the i
 
 In addition to drone training, participants were introduced to the Mapillary application for capturing street-level imagery. Through hands-on guidance, they learned how to utilize this powerful tool effectively, enriching their understanding of mapping techniques and data collection and contributing open data through street-level imagery.
 
+--- 
+
 The success of the training session was bolstered by the presence and support of esteemed patrons, Dr. Juliana Qwecoe and Dr. Emmanuel Mensah, who served as sources of inspiration and motivation for the students throughout the event. Their encouragement further reinforced the importance of initiatives aimed at empowering the youth through education and skill development. We also think this event training couldn't have been this successful without the great coordination and team play of the whole executive team members; Wilfred Ruth Alifo Vivian Yorke, Gabriel, and Gifty Gyamerah.
 
 
 The collaboration with UCC YouthMappers exemplifies the transformative impact of equipping the next generation with technological skills which are rapidly changing. Through immersive training sessions and hands-on experiences, students were empowered to explore new frontiers in drone technology and mapping applications. As they embark on their journey, armed with knowledge and practical skills, they are poised to make meaningful contributions to the fields of remote sensing science, technology, and innovation.
 
-Mawutor and Calvin, seasoned experts in drone technology and Mapillary application, respectively, served as dedicated trainers, ensuring an enriching learning experience for all participants.
+Special thanks to Mawutor and Calvin, seasoned experts in drone technology and Mapillary application, respectively, who served as dedicated trainers, ensuring an enriching learning experience for all participants.
 
 Stay tuned for more updates and future collaborations as we continue to empower and inspire the leaders of tomorrow!
