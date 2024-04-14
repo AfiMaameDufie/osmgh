@@ -8,7 +8,7 @@ summary: OSMGhana Partners with UCC YouthMappers for Drone Technology Training -
 ---
 
 
-('/images/posts/osm-ghana-ucc.jpeg')
+![](/images/posts/osm-ghana-ucc.jpeg)
 
 In a bid to foster innovation and equip the youth with cutting-edge skills, OSMGhana recently collaborated with the University of Cape Coast (UCC) YouthMappers chapter to conduct an enlightening two-day training session on drone technology. 
 
@@ -18,7 +18,7 @@ The training commenced with a comprehensive theoretical session covering various
 
 ---
 
-('/images/posts/ucc-drone-training.JPG')
+![](/images/posts/ucc-drone-training.JPG)
 
 On the second day, students were immersed in the practical aspect of the training, where they were taken to the field for hands-on experience with drones. To our surprise, over one hundred students turned up.
 
